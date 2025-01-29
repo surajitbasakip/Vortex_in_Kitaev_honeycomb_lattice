@@ -1,4 +1,4 @@
-###Kitaev Honeycomb Model with Vortices
+### Kitaev Honeycomb Model with Vortices
 
 This notebook explores the eigenvalues of the Kitaev honeycomb model. 
 ## The following steps are carried out:
